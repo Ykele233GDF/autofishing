@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "autofishing",
+	"version": "${version}",
+	"name": "AutoFishing",
+	"description": "Automatically detects bobber splashes and reels in fish with precise timing. Toggle on/off with K key. Fully client-side.",
+	"authors": [
+		"Ykele233GDF"
+	],
+	"contact": {
+		"homepage": "https://github.com/ykele233gdf/autofishing",
+		"sources": "https://github.com/ykele233gdf/autofishing"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/autofishing/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.github.ykele233gdf.autofishing.AutoFishing"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

@@ -15,4 +15,4 @@ See the [Fabric Documentation](https://docs.fabricmc.net/develop/getting-started
 
 ## License
 
-CC0-1.0
+MIT

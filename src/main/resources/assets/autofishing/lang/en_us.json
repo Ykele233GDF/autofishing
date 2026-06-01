@@ -1,0 +1,7 @@
+{
+  "key.autofishing.toggle": "Toggle AutoFishing",
+  "key.category.autofishing.category": "AutoFishing",
+  "message.autofishing.toggle": "AutoFishing: %s",
+  "message.autofishing.on": "ON",
+  "message.autofishing.off": "OFF"
+}

@@ -1,0 +1,7 @@
+{
+  "key.autofishing.toggle": "切换自动钓鱼",
+  "key.category.autofishing.category": "自动钓鱼",
+  "message.autofishing.toggle": "自动钓鱼: %s",
+  "message.autofishing.on": "开启",
+  "message.autofishing.off": "关闭"
+}

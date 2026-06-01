@@ -11,7 +11,7 @@
 		"homepage": "https://github.com/ykele233gdf/autofishing",
 		"sources": "https://github.com/ykele233gdf/autofishing"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/autofishing/icon.png",
 	"environment": "client",
 	"entrypoints": {

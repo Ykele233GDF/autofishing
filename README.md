@@ -1,6 +1,6 @@
 # AutoFishing
 
-Automatically detects bobber splashes and reels in fish with precise timing. Toggle on/off with **K** key. Fully client-side.
+A Minecraft 26.1.2 mod for automatically detecting bobber splashes and reels in fish with precise timing. Toggle on/off with **K** key. Fully client-side.
 
 ## Features
 
